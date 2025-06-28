@@ -461,7 +461,7 @@ function App() {
       <div className="container mx-auto px-4 py-8">
         <div className="text-center mb-12">
           <h1 className="text-6xl font-bold mb-6 bg-gradient-to-r from-yellow-400 to-orange-500 bg-clip-text text-transparent">
-            🎁 Srija's Birthday Hunt 🎁
+            🎁 Your Birthday Hunt 🎁
           </h1>
           <p className="text-xl text-blue-200 mb-8">
             Welcome to your special birthday adventure! Hidden throughout this mysterious realm are 20 amazing treasures waiting to be discovered!
